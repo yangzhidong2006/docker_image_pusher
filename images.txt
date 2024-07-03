@@ -2,3 +2,4 @@ mysql:8.0.36
 pgvector/pgvector:0.7.0-pg15
 mongo:5.0.18
 ghcr.io/labring/fastgpt-sandbox:v4.8.2
+savatar101/omniparse:0.1
